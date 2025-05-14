@@ -8,10 +8,10 @@ import axios from "axios";
 import MarksChart from "./components/MarksChart/MarksChart";
 
 
-const pricingPromise = fetch('pricingData.json')
+const pricingPromise = fetch('/pricingData.json')
 .then(res => res.json())
 
-const marksPromise = axios.get('marksData.json')
+const marksPromise = axios.get('/marksData.json')
 
 function App() {
   return (
