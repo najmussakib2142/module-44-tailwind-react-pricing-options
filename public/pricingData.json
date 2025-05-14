@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Basic",
+    "price": 50,
+    "currency": "USD",
+    "interval": "monthly",
+    "description": "Affordable access to all essential gym facilities.",
+    "features": [
+      "Cardio equipment access",
+      "Strength training equipment access",
+      "Locker rooms and showers",
+      "Basic fitness assessment"
+    ]
+  },
+  {
+    "name": "Standard",
+    "price": 75,
+    "currency": "USD",
+    "interval": "monthly",
+    "popular": true,
+    "description": "Enhanced access with group classes and guest privileges.",
+    "features": [
+      "Unlimited access to all equipment",
+      "Locker rooms and showers",
+      "Up to 8 group fitness classes per month",
+      "One guest pass per month",
+      "Access to member-only events"
+    ]
+  },
+  {
+    "name": "Premium",
+    "price": 135,
+    "currency": "USD",
+    "interval": "monthly",
+    "description": "Comprehensive access with premium amenities and personalized support.",
+    "features": [
+      "Unlimited access to all equipment and classes",
+      "Locker rooms and showers with towel service",
+      "Two 30-minute personal training sessions per month",
+      "Access to recovery zone (sauna, massage chairs)",
+      "Priority booking for classes and personal training",
+      "Basic nutritional guidance",
+      "Complimentary Wi-Fi"
+    ]
+  }
+]
